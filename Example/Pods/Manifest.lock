@@ -1,0 +1,16 @@
+PODS:
+  - SSRTestLib (0.1.0)
+
+DEPENDENCIES:
+  - SSRTestLib (from `../`)
+
+EXTERNAL SOURCES:
+  SSRTestLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SSRTestLib: b273a8e0b7baded40458495b47730269d5b03575
+
+PODFILE CHECKSUM: 8e8b6314dc21e4f2aed88eb995e8ba1bb9ca8003
+
+COCOAPODS: 1.4.0

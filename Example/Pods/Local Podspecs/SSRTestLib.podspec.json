@@ -1,0 +1,22 @@
+{
+  "name": "SSRTestLib",
+  "version": "0.1.0",
+  "summary": "A short description of SSRTestLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ordinaryITM/SSRTestLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ordinaryITM": "songshuran@hemayun.com"
+  },
+  "source": {
+    "git": "https://github.com/ordinaryITM/SSRTestLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SSRTestLib/Classes/**/*"
+}
