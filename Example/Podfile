@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SSRTestLib_Example' do
+  pod 'SSRTestLib', :path => '../'
+
+  target 'SSRTestLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
